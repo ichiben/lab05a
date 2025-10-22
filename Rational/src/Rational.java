@@ -8,6 +8,7 @@ public class Rational {
             this.reason = reason;
         }
     }
+    // Add a comment test
 
     Rational() {
         super();
